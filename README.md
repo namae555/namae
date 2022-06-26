@@ -1,2 +1,0 @@
-# namae
-test
